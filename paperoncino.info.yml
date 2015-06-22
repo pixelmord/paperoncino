@@ -1,0 +1,16 @@
+name: Paperoncino
+type: theme
+base theme: classy
+description: 'Modern theme incorporation material design and polymer elements.'
+alt text: 'Administration theme for Drupal 8 with angularJS integration.'
+tags: 'multi-column, fluid, responsive, sans-serif, accessible, polymer, material design'
+core: 8.x
+
+regions:
+  content: Content
+  messages: Messages
+  help: Help
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+  sidebar_second: 'Second sidebar'
