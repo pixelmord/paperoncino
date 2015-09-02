@@ -1,0 +1,14 @@
+global-styling:
+  css:
+    base:
+      css/base/elements.p.css: {}
+    layout:
+      css/layout.p.css: {}
+    theme:
+      css/material.lime-pink.min.css: {}
+      css/theme.p.css: {}
+  js:
+      js/material.min.js: {}
+    dependencies:
+        - core/drupal
+        - core/jquery
